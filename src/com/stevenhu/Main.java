@@ -3,6 +3,6 @@ package com.stevenhu;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	System.out.println("Steve is not the best")
     }
 }
